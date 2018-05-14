@@ -111,8 +111,8 @@ public class EmployeeDAOTest {
 		}
 
 	}
-
-	@Test
+	
+	/*@Test
 	public void testCreateEmployee() {
 
 		logger.info("--");
@@ -227,5 +227,5 @@ public class EmployeeDAOTest {
 	@AfterClass
 	public static void afterClass() {
 		logger.info("Despues de todos los metodos");
-	}
+	}*/
 }
